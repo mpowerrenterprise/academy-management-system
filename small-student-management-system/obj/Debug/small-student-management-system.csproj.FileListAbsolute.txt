@@ -1,0 +1,46 @@
+c:\users\software lab dsa\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\small-student-management-system.exe
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\small-student-management-system.exe.config
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\MySql.Data.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\Google.Protobuf.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\Zstandard.Net.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\System.Buffers.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\MySql.Data.xml
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.dashboard.resources
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.login_form.resources
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.Properties.Resources.resources
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.student_management.resources
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.csproj.GenerateResource.Cache
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.exe
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.pdb
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\small-student-management-system.pdb
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.csprojResolveAssemblyReference.cache
+C:\Users\Software Lab DSA\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.settings_form.resources
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\small-student-management-system.exe.config
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.exe
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.pdb
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\small-student-management-system.exe
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\small-student-management-system.pdb
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\MySql.Data.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\Google.Protobuf.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\Zstandard.Net.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\System.Buffers.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\bin\Debug\MySql.Data.xml
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.csprojResolveAssemblyReference.cache
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.dashboard.resources
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.login_form.resources
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.Properties.Resources.resources
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.settings_form.resources
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.student_management.resources
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.csproj.GenerateResource.Cache
