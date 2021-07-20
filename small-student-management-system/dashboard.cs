@@ -40,5 +40,13 @@ namespace small_student_management_system
             login_form1.Show();
             this.Hide();
         }
+
+        private void studentManagementToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            student_management_form student_management = new student_management_form();
+            student_management.MdiParent = this;
+            student_management.Show();
+            
+        }
     }
 }

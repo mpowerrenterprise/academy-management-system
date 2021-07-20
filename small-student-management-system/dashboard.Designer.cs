@@ -73,6 +73,7 @@
             this.studentManagementToolStripMenuItem.Name = "studentManagementToolStripMenuItem";
             this.studentManagementToolStripMenuItem.Size = new System.Drawing.Size(229, 32);
             this.studentManagementToolStripMenuItem.Text = "Student Management";
+            this.studentManagementToolStripMenuItem.Click += new System.EventHandler(this.studentManagementToolStripMenuItem_Click);
             // 
             // logoutToolStripMenuItem
             // 

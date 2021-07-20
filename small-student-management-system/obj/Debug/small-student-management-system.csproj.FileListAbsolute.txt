@@ -44,3 +44,4 @@ C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-managem
 C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.settings_form.resources
 C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.student_management.resources
 C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small-student-management-system.csproj.GenerateResource.Cache
+C:\Users\Gunarakulan\documents\visual studio 2015\Projects\small-student-management-system\small-student-management-system\obj\Debug\small_student_management_system.student_management_form.resources
