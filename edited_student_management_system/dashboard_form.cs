@@ -28,23 +28,32 @@ namespace edited_student_management_system
         // mdiParent forms are in below
         private void settingsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+      
             settings_form settings_form1 = new settings_form();
+            settings_form1.WindowState = FormWindowState.Normal;
             settings_form1.MdiParent = this;
             settings_form1.Show();
+            settings_form1.WindowState = FormWindowState.Maximized;
         }
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
+
             student_management_form student_management1 = new student_management_form();
+            student_management1.WindowState = FormWindowState.Normal;
             student_management1.MdiParent = this;
             student_management1.Show();
+            student_management1.WindowState = FormWindowState.Maximized;
         }
 
         private void gurdianManagemenrToolStripMenuItem_Click(object sender, EventArgs e)
         {
+       
             guardian_management_form guardian_management1 = new guardian_management_form();
+            guardian_management1.WindowState = FormWindowState.Normal;
             guardian_management1.MdiParent = this;
             guardian_management1.Show();
+            guardian_management1.WindowState = FormWindowState.Maximized;
         }
 
         private void traineeManagementToolStripMenuItem_Click(object sender, EventArgs e)
@@ -55,22 +64,31 @@ namespace edited_student_management_system
         private void subjectManagementToolStripMenuItem_Click(object sender, EventArgs e)
         {
             subject_management_form subject_management1 = new subject_management_form();
+            subject_management1.WindowState = FormWindowState.Normal;
             subject_management1.MdiParent = this;
             subject_management1.Show();
+            subject_management1.WindowState = FormWindowState.Maximized;
         }
 
         private void departmentManagementToolStripMenuItem_Click(object sender, EventArgs e)
         {
             department_management_form department_management1 = new department_management_form();
+            department_management1.WindowState = FormWindowState.Normal;
             department_management1.MdiParent = this;
             department_management1.Show();
+            department_management1.WindowState = FormWindowState.Maximized;
         }
 
         private void gurdianManagemenrToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
+
+
             guardian_management_form guardian_management1 = new guardian_management_form();
+            guardian_management1.WindowState = FormWindowState.Normal;
             guardian_management1.MdiParent = this;
             guardian_management1.Show();
+            guardian_management1.WindowState = FormWindowState.Maximized;
+
 
         }
 
