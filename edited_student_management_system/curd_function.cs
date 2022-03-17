@@ -17,7 +17,7 @@ namespace edited_student_management_system
 
         public MySqlDataReader mysql_select_method(string s_sqlcode)
         {
-            MySqlConnection my_s_connect = new MySqlConnection("SERVER="+server_IP_domain_name+" ; DATABASE=edited_student_management_system ; USER=root ; PASSWORD= ");
+            MySqlConnection my_s_connect = new MySqlConnection("SERVER="+server_IP_domain_name+"; DATABASE=edited_student_management_system; USER=root; PASSWORD=");
             my_s_connect.Open();
 
             MySqlCommand my_s_command = new MySqlCommand(s_sqlcode, my_s_connect);

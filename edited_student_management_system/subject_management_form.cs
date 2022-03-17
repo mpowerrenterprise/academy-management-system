@@ -24,6 +24,13 @@ namespace edited_student_management_system
 
         private void subject_management_form_Load(object sender, EventArgs e)
         {
+
+            //DATABASE connection
+            database1.server_IP_domain_name = "localhost";
+            database1.database_name = "edited_student_management_system";
+            database1.server_username = "root";
+            database1.server_password = "";
+
             //for GridView
             selection_gridview_data_method();
         }
