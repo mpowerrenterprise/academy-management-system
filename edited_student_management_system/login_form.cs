@@ -47,7 +47,6 @@ namespace edited_student_management_system
                 {
                     if (current_server_username == username_textbox.Text && current_server_password == password_textbox.Text)
                     {
-                        MessageBox.Show("You're logged in");
                         this.Hide();
 
                         dashboard_form dashboard_form1 = new dashboard_form();
