@@ -17,4 +17,4 @@ It is developed for the education purpose to teach students in the real-world ap
 ### Setup Database
 
 **Step 1:**
--  Create an empty database with the name of "edited_student_management_system" in the MySQL panel.
+-   
