@@ -49,9 +49,7 @@ namespace edited_student_management_system
 
         private void traineeManagementToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            trainee_management_form trainee_management1 = new trainee_management_form();
-            trainee_management1.MdiParent = this;
-            trainee_management1.Show();
+      
         }
 
         private void subjectManagementToolStripMenuItem_Click(object sender, EventArgs e)
@@ -66,6 +64,21 @@ namespace edited_student_management_system
             department_management_form department_management1 = new department_management_form();
             department_management1.MdiParent = this;
             department_management1.Show();
+        }
+
+        private void gurdianManagemenrToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            guardian_management_form guardian_management1 = new guardian_management_form();
+            guardian_management1.MdiParent = this;
+            guardian_management1.Show();
+
+        }
+
+        private void traineeManagementToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            trainee_management_form trainee_management1 = new trainee_management_form();
+            trainee_management1.MdiParent = this;
+            trainee_management1.Show();
         }
     }
 }
