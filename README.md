@@ -1,10 +1,8 @@
-# DreamSpace Management System
+# Academy Management System
 
 ## Introduction
 
-A management system for DreamSpace's operations works. DreamSpace is a learning center in Sri Lanka, Batticaloa. This system was developed to support the operations of DreamSpace Academy.
-
-It is developed for the education purpose to teach students in the real-world application building process, therefore this application contains basic functions of C#.
+A management system for the academy's operations works. It is developed for the educational purpose of teaching students in the real-world application-building process, therefore this application contains the basic functions of C#.
 
 ## Technologies
 
