@@ -163,10 +163,10 @@ dreamspace-management-system\1-project-folder\edited_student_management_system\b
 
 ## Social Links
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
-* [Facebook Profile](https://www.facebook.com/gunarakulangunaratnam)
-* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
-* [Twitter Profile ](https://twitter.com/gunarakulangr)
-* [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
-* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
-* [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+- [Linkedin](https://www.linkedin.com/in/gunarakulangunaretnam)
+- [Facebook](https://www.facebook.com/gunarakulangunaretnam)
+- [Instagram](https://www.instagram.com/gunarakulangunaretnam)
+- [Twitter](https://twitter.com/gunarakulangr)
+- [Kaggle](https://www.kaggle.com/gunarakulangr)
+- [TikTok](https://www.tiktok.com/@gunarakulangunaretnam)
+- [Youtube](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
