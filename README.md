@@ -1,8 +1,8 @@
-# ACADEMY MANAGEMENT SYSTEM
+# Academy Management System
 
 ## Introduction
 
-A management system for the academy's operations works. It is developed for the educational purpose of teaching students in the real-world application-building process, therefore this application contains the basic functions of C#.
+It is a prototype for an academy management system aimed at facilitating educational purposes by providing students with practical insights into software development using C#. Tailored specifically for learning purposes, this system embodies the core functionalities required for managing academic institutions. Through simulated scenarios, students engage in the real-world application-building process, learning key concepts such as user authentication, student and course management, attendance tracking, grading, and communication. This prototype serves as a foundational tool for students to comprehend the intricacies of software development while gaining hands-on experience in academy operations.
 
 ## Technologies
 
@@ -161,7 +161,7 @@ dreamspace-management-system\1-project-folder\edited_student_management_system\b
 ```
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
